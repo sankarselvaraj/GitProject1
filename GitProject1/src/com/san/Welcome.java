@@ -6,6 +6,7 @@ public class Welcome {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome");
 		System.out.println("To Git");
+		System.out.println("Done with Checin");
 	}
 
 }
