@@ -7,6 +7,7 @@ public class Welcome {
 		System.out.println("Welcome to Sankar Inc-->"+args[0]);
 		System.out.println("To Git");
 		System.out.println("Done with Checin");
+		System.out.println("Thanks for your visit-->"+args[0]);
 	}
 
 }
